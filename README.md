@@ -4,6 +4,8 @@
 ```
 npm install
 ```
+DEMO LINK 
+https://Arsen-Shpak.github.io/online-market/
 
 ### Compiles and hot-reloads for development
 ```
